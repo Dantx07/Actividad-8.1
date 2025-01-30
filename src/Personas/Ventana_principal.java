@@ -7,7 +7,7 @@ import javax.swing.*;
 
 public class Ventana_principal extends JFrame implements ActionListener {
 
-   private Lista_personas Lista;
+    private Lista_personas Lista;
     private Container Contenedor;
     private JLabel Nombre, Apellido, Telefono, Direccion;
     private JTextField Campo_Nombre, Campo_Apellido, Campo_Telefono, Campo_Direccion;
